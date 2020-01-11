@@ -1,1 +1,1 @@
-This folder contains the University admission dataset with simple perceptron.
+This folder contains the solution of University admission dataset, done with simple perceptron.
